@@ -1,0 +1,130 @@
+🏆 HYBRID TP + TSL BACKTEST RESULTS 🏆
+--- Test Parameters ---
+Days Tested: 150
+RSI Period: 14
+RSI Oversold: 35
+RSI Overbought: 65
+Take Profit Ratio: 2.00%
+Trailing Stop Ratio: 1.00%
+Commission Rate (Per Trade): 0.045%
+Number of Coins Tested: 90
+
+--- Exit Strategy Breakdown ---
+Closed by Take Profit: 771 Trades
+Closed by TSL (Profitable): 1693 Trades (Avg. Profit: +0.39%)
+Closed by TSL (Loss): 6181 Trades (Avg. Loss: -0.65%)
+Closed by Timeout: 6 Trades
+
+--- Long Positions ---
+Total Long Trades: 3808
+Winning Longs: 1070
+Losing Longs: 2738
+Long Win Rate: 28.10%
+
+--- Short Positions ---
+Total Short Trades: 4843
+Winning Shorts: 1396
+Losing Shorts: 3447
+Short Win Rate: 28.83%
+
+--- Overall Summary ---
+Total Trades: 8651
+Overall Win Rate: 28.51%
+
+--- Cost and PNL Breakdown ---
+Total Commission Expense: 778.59%
+Total Funding Fee Impact: -4.0322%
+TOTAL NET PNL: -1874.12%
+
+========================================
+📈📉 COIN PERFORMANCE RANKING (NET PNL) 📉📈
+TRBUSDT Total Net PNL: +3.80%
+ILVUSDT Total Net PNL: +3.24%
+REIUSDT Total Net PNL: -0.33%
+ALGOUSDT Total Net PNL: -2.97%
+BANDUSDT Total Net PNL: -3.02%
+LTCUSDT Total Net PNL: -5.26%
+MANTAUSDT Total Net PNL: -5.87%
+IOTAUSDT Total Net PNL: -6.55%
+APEUSDT Total Net PNL: -6.56%
+MINAUSDT Total Net PNL: -7.61%
+IMXUSDT Total Net PNL: -8.11%
+EGLDUSDT Total Net PNL: -9.00%
+MAGICUSDT Total Net PNL: -9.41%
+XRPUSDT Total Net PNL: -9.45%
+ATOMUSDT Total Net PNL: -10.19%
+SANDUSDT Total Net PNL: -10.20%
+KNCUSDT Total Net PNL: -10.40%
+ADAUSDT Total Net PNL: -10.48%
+XLMUSDT Total Net PNL: -10.85%
+AVAXUSDT Total Net PNL: -11.54%
+INJUSDT Total Net PNL: -11.70%
+BTCUSDT Total Net PNL: -11.91%
+ENJUSDT Total Net PNL: -11.96%
+STORJUSDT Total Net PNL: -12.34%
+AXSUSDT Total Net PNL: -12.46%
+ASRUSDT Total Net PNL: -13.71%
+ZETAUSDT Total Net PNL: -13.72%
+GRTUSDT Total Net PNL: -13.77%
+DOTUSDT Total Net PNL: -14.02%
+STRKUSDT Total Net PNL: -15.00%
+JUPUSDT Total Net PNL: -15.69%
+ETCUSDT Total Net PNL: -16.76%
+RUNEUSDT Total Net PNL: -17.08%
+COMPUSDT Total Net PNL: -17.35%
+ANKRUSDT Total Net PNL: -17.45%
+UMAUSDT Total Net PNL: -17.47%
+TRXUSDT Total Net PNL: -18.51%
+TIAUSDT Total Net PNL: -18.71%
+SNXUSDT Total Net PNL: -19.25%
+ZRXUSDT Total Net PNL: -19.29%
+GALAUSDT Total Net PNL: -19.82%
+NEARUSDT Total Net PNL: -19.84%
+LINKUSDT Total Net PNL: -19.91%
+ONEUSDT Total Net PNL: -20.07%
+PYTHUSDT Total Net PNL: -20.32%
+UNIUSDT Total Net PNL: -20.34%
+PERPUSDT Total Net PNL: -20.44%
+DOGEUSDT Total Net PNL: -20.64%
+CFXUSDT Total Net PNL: -20.71%
+SEIUSDT Total Net PNL: -20.77%
+LDOUSDT Total Net PNL: -21.61%
+1INCHUSDT Total Net PNL: -21.84%
+HBARUSDT Total Net PNL: -22.28%
+FILUSDT Total Net PNL: -22.59%
+ZILUSDT Total Net PNL: -22.84%
+FETUSDT Total Net PNL: -22.92%
+GMTUSDT Total Net PNL: -23.11%
+BLURUSDT Total Net PNL: -24.44%
+SOLUSDT Total Net PNL: -24.86%
+VETUSDT Total Net PNL: -25.03%
+DYDXUSDT Total Net PNL: -26.00%
+1000BONKUSDT Total Net PNL: -26.07%
+AAVEUSDT Total Net PNL: -26.25%
+SUIUSDT Total Net PNL: -27.05%
+YFIUSDT Total Net PNL: -28.63%
+APTUSDT Total Net PNL: -28.68%
+SUSHIUSDT Total Net PNL: -28.86%
+OPUSDT Total Net PNL: -30.55%
+KAVAUSDT Total Net PNL: -30.59%
+IOTXUSDT Total Net PNL: -31.62%
+ARBUSDT Total Net PNL: -32.00%
+KSMUSDT Total Net PNL: -32.01%
+STXUSDT Total Net PNL: -32.11%
+1000SHIBUSDT Total Net PNL: -32.18%
+JTOUSDT Total Net PNL: -32.26%
+HIGHUSDT Total Net PNL: -32.50%
+ETHUSDT Total Net PNL: -32.92%
+PIXELUSDT Total Net PNL: -34.67%
+ARUSDT Total Net PNL: -34.74%
+WIFUSDT Total Net PNL: -35.16%
+MKRUSDT Total Net PNL: -35.55%
+ROSEUSDT Total Net PNL: -35.68%
+CELOUSDT Total Net PNL: -36.26%
+MANAUSDT Total Net PNL: -36.57%
+CHZUSDT Total Net PNL: -37.00%
+BCHUSDT Total Net PNL: -37.99%
+XTZUSDT Total Net PNL: -40.34%
+LRCUSDT Total Net PNL: -41.11%
+1000PEPEUSDT Total Net PNL: -41.30%
+CRVUSDT Total Net PNL: -44.17%
