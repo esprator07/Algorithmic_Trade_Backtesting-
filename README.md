@@ -18,3 +18,16 @@ Realistic Cost Calculation: Each backtest accounts for trading commissions and a
 Comprehensive Optimization: The scripts include an optimization manager to automatically test various combinations of critical parameters like RSI, TP, SL, and TSL.
 Detailed Reporting: At the end of each test, a detailed report is generated and saved to a file. It includes metrics such as overall PNL, win rate, total number of trades, performance by position type (long/short), and per-coin profitability.
 This tool is designed for traders and developers who want to conduct an in-depth analysis of how RSI-based mean-reversion strategies perform with different risk management approaches.
+
+⚙️ Comprehensive Optimization & Performance
+This project does not just test a single strategy with fixed parameters; it also provides a comprehensive optimization process to find the most profitable version of the strategy.
+The start_optimization() function automatically tests all possible combinations for the parameter ranges you define.
+Optimizable Parameters:
+1.RSI_OVERSOLD and RSI_OVERBOUGHT levels
+2.TAKE_PROFIT_PERCENT
+3.STOP_LOSS_PERCENT
+4.TRAILING_STOP_PERCENT
+Each script (TP/SL, TSL, Hybrid) is designed to optimize its own relevant parameters. For instance, by providing different values in lists like tp_range and sl_range, you can test hundreds or even thousands of different scenarios.
+Performance Note:
+The time required for each parameter combination test depends on the length of the coin list and the number of backtesting days. For a typical test involving 90 coins over a 150-day period, a single combination can take approximately 45 minutes to 1.5 hours to complete. This duration may vary based on Binance API response times and your internet connection.
+Upon completion, a detailed .txt report for each test is saved to the analizler directory. The report is named dynamically to include the parameters tested, allowing for easy comparison between different optimization runs.
